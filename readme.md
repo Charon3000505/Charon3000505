@@ -60,7 +60,7 @@ I continuously update my projects with better code & documentation.
 ## 📫 Contact Me
 
 - GitHub: <https://github.com/Charon3000505>
-- Email: <charcode888@gmail.com>
+- Email: <erlandidn@gmail.com>
 
 ---
 
